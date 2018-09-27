@@ -1,0 +1,4 @@
+GameAfterUpdate.GameOfCraps$Animator
+javaapplication31.GameOfCraps
+GameAfterUpdate.GameOfCraps
+javaapplication31.GameOfCraps$Animator
